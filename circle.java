@@ -1,5 +1,5 @@
 // Java program to calculate the area of the
-public class GFG {
+public class circle {
     public static void main(String[] args)
     {
         int radius;
